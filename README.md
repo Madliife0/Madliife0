@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m @Madliife0
 - 👀 I’m interested in Web Security & Web Developement ...
-- 🌱 I’m currently Studying Web Developement...
 -  @Twitter : https://twitter.com/0Madliife
 -  
 - <mark>Just Another Weeb , Nice To meet u</mark>
